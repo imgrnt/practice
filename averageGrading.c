@@ -16,7 +16,11 @@ int main() {
             
     } while (grade != -99);
 
+
+
     avg = total / (double) numGrades;
     printf("%f", avg);
+        printf("Have a good day!");
+         printf("See you next time!");
     return 0;
 }
